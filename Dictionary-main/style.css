@@ -1,0 +1,169 @@
+.container{
+    height: 100rem;
+    width: 215rem;
+    margin-left: 50rem;
+    /* position: relative; */
+    /* background-color: pink; */
+
+
+}
+
+#optinal{
+    font-size: 60px;
+    margin-left: 120rem;
+    margin-top: 60px;
+    border: none;
+    border-right:2px solid black;
+    
+}
+
+.input{
+    font-size: 60px;
+    height: 10rem;
+    width: 120rem;
+    margin-left: 50rem;
+    margin-top: 15rem;
+    background-color: rgb(241, 241, 241);
+    border: none;
+    border-radius: 20px;
+    padding-left: 50px;
+    
+}
+
+
+#search-icon{
+   font-size: 5rem;
+   margin-left: -4%; 
+   /* background-color: red; */
+   cursor:default;
+
+ }
+
+.icons{
+    margin-top: -80px;
+    margin-left:70%;
+    position: relative;
+    
+}
+
+#toggle-off{
+    font-size: 8rem;
+    position: absolute;
+    margin-left: 20%;
+    cursor: pointer;
+    
+
+}
+
+#dark-mode{
+    font-size: 8rem;
+
+
+}
+
+.book{
+    margin-left: 50rem;
+    height: 90px;
+    width: 90px;
+    margin-top: -80px;
+    
+}
+
+#library-book{
+    font-size: 6rem;
+}
+
+.sound{
+    margin-left: 68%;
+    position: relative;
+
+}
+
+#soundPlay{
+   
+    font-size: 12rem;
+    margin-top: 1%;
+    position: absolute;
+    color:rgb(222, 125, 222);
+    cursor:default;
+   
+   
+}
+
+
+.word{
+    font-size: 90px;
+    margin-left: 32%;
+    margin-top:-20%;
+}
+
+
+.detailes{
+    font-size: 60px;
+    margin-left: 32%;
+}
+
+/* h2{ */
+    /* color: green; */
+
+/* } */
+
+p{
+    color: rgb(88, 87, 87);
+    margin-top: 100px;
+    
+}
+
+.p1{
+    color: rgb(88, 87, 87);
+    padding-left: 80px;
+}
+
+.Atonyms{
+    margin-top: 150px;
+    color: green;
+
+}
+
+.border-line{
+    color: #fff;
+    border-top: 2px solid grey;
+    margin-left: 10%;
+    margin-top: -120px;
+    width: 48%;
+
+}
+
+.border-line1{
+    color: #fff;
+    border-top: 2px solid grey;
+    margin-left: 10%;
+    margin-top: -120px;
+    width: 48%;
+    
+}
+
+.border-line2{
+    color: #fff;
+    border-top: 2px solid grey;
+    margin-left: 11%;
+    margin-top: -120px;
+    width: 48%;
+
+}
+
+.para{
+    margin-top:-5rem;
+}
+
+li{
+    color: rgb(88, 87, 87);
+
+}
+
+
+.toggleDark{
+    background-color: #1e1e1e;
+    /* color:red; */
+    color: white;
+}
