@@ -2,9 +2,6 @@
     height: 100rem;
     width: 215rem;
     margin-left: 50rem;
-    /* position: relative; */
-    /* background-color: pink; */
-
 
 }
 
@@ -14,7 +11,10 @@
     margin-top: 60px;
     border: none;
     border-right:2px solid black;
-    
+}
+
+.inp{
+    position: relative;
 }
 
 .input{
@@ -34,7 +34,8 @@
 #search-icon{
    font-size: 5rem;
    margin-left: -4%; 
-   /* background-color: red; */
+   position: absolute;
+   margin-top:270px;
    cursor:default;
 
  }
@@ -80,14 +81,13 @@
 }
 
 #soundPlay{
-   
     font-size: 12rem;
-    margin-top: 1%;
+    margin-top: 15%;
     position: absolute;
     color:rgb(222, 125, 222);
     cursor:default;
-   
-   
+    margin-left: 20%;
+
 }
 
 
@@ -103,10 +103,7 @@
     margin-left: 32%;
 }
 
-/* h2{ */
-    /* color: green; */
 
-/* } */
 
 p{
     color: rgb(88, 87, 87);
@@ -164,6 +161,7 @@ li{
 
 .toggleDark{
     background-color: #1e1e1e;
-    /* color:red; */
+    color:red; 
     color: white;
-}
+} 
+
